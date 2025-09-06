@@ -5,7 +5,7 @@ Through The Bible Together (TTBT) is a curriculum designed for **multi-generatio
 The goal is to establish a shared foundation of key Old Testament and New Testament stories and teachings while fostering spiritual growth across all ages.
 
 ## Vision & Biblical Foundation
-TTBT is rooted in **Deuteronomy 6:6–9**, which calls God’s people to impress His words on their children and to discuss them continually in everyday life.  
+TTBT is rooted in helping Christians fullfil **Deuteronomy 6:6–9**, which calls God’s people to impress His words on their children and to discuss them continually in everyday life.  
 By studying together, participants fulfill this command as faith is nurtured and reinforced across generations.
 
 ## Audience & Age Groups
@@ -39,6 +39,9 @@ Each track covers the same core Bible stories but is adapted for comprehension, 
 - **Relational:** Emphasis on conversation, questions, and practical application across all ages.  
 - **Foundational:** Focused on establishing key stories and doctrines that form a biblical worldview.  
 
+## Bible Version
+- By default, the Berean Standard Bible will be used.
+
 ## Next Steps
 This file serves as the **overview specification** for TTBT.  
 Future files will define detailed content:
@@ -46,3 +49,4 @@ Future files will define detailed content:
 - [curriculum/ttbt/NT.md] – New Testament curriculum details  
 
 Agents should reference this overview to align curriculum content creation, adaptation for age groups, and integration into the ZoeGroups app.
+
