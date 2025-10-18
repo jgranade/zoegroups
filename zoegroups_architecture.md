@@ -15,21 +15,30 @@ Designed for use by churches, families, and informal faith groups.
 ## Core Concepts
 
 ### Study (Content Template)
-- Immutable set of weeks and days
+- Immutable set of `StudyWeeks` and `StudyDays`
 - Each day has composable content blocks: `reading`, `questions`, `reflection`, etc.
 - Adapted for age groups: `adult`, `youth`, `kids`, `early_childhood`
+- May include optional audience variants: e.g., "young girls", "widows"
+- Uses stable IDs: `week_id`, `day_id`, and explicit `week` and `day` numbers for internal reference and display
 
 #### Structure
 - Study
-  - Weeks (1..N)
-    - Days (1–7 max)
-      - Blocks (ordered)
-        - Optional: variants per age group
+  - StudyWeeks (week number + title + `week_id`)
+    - StudyDays (day number + title + `day_id`)
+      - Content Blocks (by kind)
+        - Age group variants
+        - Optional audience variants (additive or override blocks)
 
 ### Program (Optional Organizer)
 - Higher-level grouping of related Studies
 - Example: "Through the Bible Together"
 - Not required per Study, but useful for bundling and filtering
+
+### Course (Future)
+- Distinct from Study; more structured, instructional, and goal-based
+- May include prerequisites, testing, and certification
+- Targets individual learners or leader development paths
+- Uses its own structure (CourseWeek, CourseDay, Assessments)
 
 ---
 
@@ -61,10 +70,10 @@ Designed for use by churches, families, and informal faith groups.
 
 ### Content
 - `Study`
-- `StudyWeek`
-- `StudyDay`
-- `DayContentBlock` (by kind)
-- `DayContentVariant` (per age group)
+- `StudyWeek` (week_id, week number, title)
+- `StudyDay` (day_id, day number, title)
+- `DayContentBlock` (by kind, optionally JSON)
+- `DayContentVariant` (age group or audience-specific overrides)
 
 ### Organization
 - `Program` (optional)
@@ -82,9 +91,11 @@ Designed for use by churches, families, and informal faith groups.
 ---
 
 ## Naming Choices
-- **Study**: smallest unit of structured content
+- **Study**: group-based, open-ended, relational content
 - **Term**: scheduled time box for a group (formerly "Session")
-- **Program**: optional umbrella for related studies
+- **Program**: optional umbrella for related Studies
+- **Course**: future learning-focused structure with testing/certification
+- **StudyWeek / StudyDay**: avoids ambiguity and supports future `CourseWeek`, `CourseDay` expansion
 
 ---
 
