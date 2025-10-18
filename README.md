@@ -1,2 +1,2 @@
 # zoegroups
-Repo for ZoeGroups app and curriculums
+Repo for ZoeGroups overview and courses
