@@ -1,0 +1,8 @@
+{
+  "mcpServers": {    
+    "browser-tools": {
+      "command": "cmd",
+      "args": ["/c", "npx", "@agentdeskai/browser-tools-mcp@1.2.0"]
+    }
+  }
+}
