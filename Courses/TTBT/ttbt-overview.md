@@ -26,12 +26,12 @@ Each track covers the same core Bible stories but is adapted for comprehension, 
 1. **Old Testament (Session 1)**  
    - Core foundational stories: Creation, Adam & Eve, Noah, Abraham, Moses, David, the Prophets, etc.  
    - Builds understanding of God’s covenant and His plan of redemption.  
-   - [See: curriculum/ttbt/OT.md]  
+   - [See: courses/TTBT/OT-Foundations/readme.md]  
 
 2. **New Testament (Session 2)**  
    - Stories and teachings of Jesus, early church, and key New Testament themes.  
    - Builds understanding of the Gospel and how the early church lived it out.  
-   - [See: curriculum/ttbt/NT.md]  
+   - [See: courses/TTBT/NT-Foundations/readme.md]  
 
 ## Guiding Principles
 - **Story-Driven:** Lessons are structured around narrative flow rather than abstract concepts.  
@@ -42,7 +42,7 @@ Each track covers the same core Bible stories but is adapted for comprehension, 
 ## Next Steps
 This file serves as the **overview specification** for TTBT.  
 Future files will define detailed content:
-- [curriculum/ttbt/OT.md] – Old Testament curriculum details  
-- [curriculum/ttbt/NT.md] – New Testament curriculum details  
+- [courses/TTBT/OT-Foundations/readme.md] – Old Testament curriculum details  
+- [courses/TTBT/NT-Foundations/readme.md] – New Testament curriculum details  
 
 Agents should reference this overview to align curriculum content creation, adaptation for age groups, and integration into the ZoeGroups app.
