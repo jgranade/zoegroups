@@ -1,0 +1,60 @@
+{
+  "id": "ot",
+  "title": "Old Testament Foundations",
+  "version": "0.2.1",
+  "age_groups": {
+    "adult": { "label": "Adults (18+)" },
+    "youth": { "label": "Youth (6th-12th)" },
+    "kids": { "label": "Kids (2nd-5th)" },
+    "early_childhood": { "label": "Early Childhood (1st and below)" }
+  },
+  "weeks": [
+    {
+      "week": 1,
+      "week_id": "bebd8981-a55d-4546-b400-40ff134f0b34",
+      "week_title": "Creation and the Fall",
+      "days": [
+        {
+          "day": 1,
+          "day_id": "gen1-1",
+          "title": "Creation",
+          "age_groups": {
+            "adult": { "readings": [{"ref": "Gen 1:1 - 2:3"}] },
+            "youth": { "readings": [{"ref": "Gen 1:1 - 2:3"}] },
+            "kids": { "readings": [{"ref": "Gen 1:1 - 2:3"}] }
+          }
+        },
+        {
+          "day": 2,
+          "day_id": "gen2-4",
+          "title": "Adam and Eve",
+          "age_groups": {
+            "adult": { "readings": [{"ref": "Gen 2:4-24"}] },
+            "youth": { "readings": [{"ref": "Gen 2:4-24"}] },
+            "kids": { "readings": [{"ref": "Gen 2:7-9, 15-25"}] }
+          }
+        },
+        {
+          "day": 3,
+          "day_id": "gen3",
+          "title": "The Fall",
+          "age_groups": {
+            "adult": { "readings": [{"ref": "Gen 3"}] },
+            "youth": { "readings": [{"ref": "Gen 3"}] },
+            "kids": { "readings": [{"ref": "Gen 3:1-13, Gen 20-24"}] }
+          }
+        },
+        {
+          "day": 4,
+          "day_id": "gen4",
+          "title": "Cain and Abel",
+          "age_groups": {
+            "adult": { "readings": [{"ref": "Gen 4"}] },
+            "youth": { "readings": [{"ref": "Gen 4"}] },
+            "kids": { "readings": [{"ref": "Gen 4:1-12"}] }
+          }
+        }
+      ]
+    }
+  ]
+}
