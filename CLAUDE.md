@@ -2,7 +2,7 @@
 
 **Role:** Workspace Orchestrator / Senior Full-Stack Developer  
 **Project:** ZoeGroups Educational Community Platform  
-**Workspace Directory:** `%userprofile%\\Documents\\GitHub\\claude-zoegroups`
+**Workspace Directory:** `C:\\GitHub\\zoegroups`
 
 ## Workspace Overview
 
@@ -12,7 +12,7 @@ This Claude Code environment acts as the **Workspace Orchestrator** for ZoeGroup
 
 ## Workspace Auto-Check
 
-On startup, I verify all required sub-agents exist in `.claude/agents/`:
+On startup, I verify all required sub-agents exist in `AI/Agents/`:
 
 ### **Required Sub-Agents:**
 - ✅ `curriculum-specialist.md` - Educational content, lesson plans, and age-appropriate learning activities
@@ -22,7 +22,7 @@ On startup, I verify all required sub-agents exist in `.claude/agents/`:
 ### **If Any Are Missing:**
 ```
 ⚠️  Missing Sub-Agents Detected:
-   - .claude/agents/[missing-agent].md
+   - AI/Agents/[missing-agent].md
 
 💡 These agents should be in version control. Please run:
    git pull
