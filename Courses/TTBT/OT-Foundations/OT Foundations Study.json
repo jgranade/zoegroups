@@ -1,0 +1,1353 @@
+{
+  "title": "Through the Bible Together",
+  "version": "0.2.0",
+  "age_groups": {
+    "adult": {
+      "label": "Adults (18+)"
+    },
+    "youth": {
+      "label": "Youth (6th-12th)"
+    },
+    "kids": {
+      "label": "Kids (2nd-5th)"
+    },
+    "early_childhood": {
+      "label": "Early Childhood (1st and below)"
+    }
+  },
+  "Study": [
+    {
+      "id": "ot",
+      "name": "Old Testament Foundations",
+      "number": 1,
+      "weeks": [
+        {
+          "number": 1,
+          "title": "Creation and the Fall",
+          "days": [
+            {
+              "number": 1,
+              "title": "Creation",
+              "age_groups": {
+                "adult": {
+                  "readings": [{"ref": "Gen 1:1 - 2:3"}]
+                },
+                "youth": {
+                  "readings": [{"ref": "Gen 1:1 - 2:3"}]
+                },
+                "kids": {
+                  "readings": [{"ref": "Gen 1:1 - 2:3"}]
+                }
+              }
+            },
+            {
+              "number": 2,
+              "title": "Adam and Eve",
+              "age_groups": {
+                "adult": {
+                  "readings": [{"ref": "Gen 2:4-24"}]
+                },
+                "youth": {
+                  "readings": [{"ref": "Gen 2:4-24"}]
+                },
+                "kids": {
+                  "readings": [{"ref": "Gen 2:7-9, 15-25"}]
+                }
+              }
+            },
+            {
+              "number": 3,
+              "title": "The Fall",
+              "age_groups": {
+                "adult": {
+                  "readings": [{"ref": "Gen 3"}]
+                },
+                "youth": {
+                  "readings": [{"ref": "Gen 3"}]
+                },
+                "kids": {
+                  "readings": [{"ref": "Gen 3:1-13, Gen 20-24"}]
+                }
+              }
+            },
+            {
+              "number": 4,
+              "title": "Cain and Able",
+              "age_groups": {
+                "adult": {
+                  "readings": [{"ref": "Gen 4"}]
+                },
+                "youth": {
+                  "readings": [{"ref": "Gen 4"}]
+                },
+                "kids": {
+                  "readings": [{"ref": "Gen 4:1-12"}]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "number": 2,
+          "title": "Noah and God's Covenant",
+          "days": [
+            {
+              "number": 1,
+              "title": "Noah Builds the Ark",
+              "age_groups": {
+                "adult": {
+                  "readings": [{"ref": "Gen 5-6"}]
+                },
+                "youth": {
+                  "readings": [{"ref": "Gen 6"}]
+                },
+                "kids": {
+                  "readings": [{"ref": "Gen 6:11-22"}]
+                }
+              }
+            },
+            {
+              "number": 2,
+              "title": "The Great Flood",
+              "age_groups": {
+                "adult": {
+                  "readings": [{"ref": "Gen 7"}]
+                },
+                "youth": {
+                  "readings": [{"ref": "Gen 7"}]
+                },
+                "kids": {
+                  "readings": [{"ref": "Gen 7:1, 15-16"}]
+                }
+              }
+            },
+            {
+              "number": 3,
+              "title": "Deliverance and Promise",
+              "age_groups": {
+                "adult": {
+                  "readings": [{"ref": "Gen 8-9"}]
+                },
+                "youth": {
+                  "readings": [{"ref": "Gen 8"}]
+                },
+                "kids": {
+                  "readings": [{"ref": "Gen 8:6-22"}]
+                }
+              }
+            },
+            {
+              "number": 4,
+              "title": "Tower of Babel",
+              "age_groups": {
+                "adult": {
+                  "readings": [{"ref": "Gen 10-11"}]
+                },
+                "youth": {
+                  "readings": [{"ref": "Gen 11"}]
+                },
+                "kids": {
+                  "readings": [{"ref": "Gen 11:1-9"}]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "number": 3,
+          "title": "Job and God's Sovereignty",
+          "days": [
+            {
+              "number": 1,
+              "title": "Job's Suffering",
+              "age_groups": {
+                "adult": {
+                  "readings": [{"ref": "Job 1-3"}]
+                },
+                "youth": {
+                  "readings": [{"ref": "Job 1 - 2:10"}]
+                },
+                "kids": {
+                  "readings": [{"ref": "Job 1-2:10"}]
+                }
+              }
+            },
+            {
+              "number": 2,
+              "title": "Job's Friends & Job's Cry",
+              "age_groups": {
+                "adult": {
+                  "readings": [{"ref": "Job 4-5; 8; 11; 19:23-27"}]
+                },
+                "youth": {
+                  "readings": [{"ref": "Job 4:1-9; 19:23-27"}]
+                },
+                "kids": {
+                  "readings": [{"ref": "Job 19:25-27"}]
+                }
+              }
+            },
+            {
+              "number": 3,
+              "title": "God Responds",
+              "age_groups": {
+                "adult": {
+                  "readings": [{"ref": "Job 38-41"}]
+                },
+                "youth": {
+                  "readings": [{"ref": "Job 38, Job 40:1-5"}]
+                },
+                "kids": {
+                  "readings": [{"ref": "Job 38:1-7"}]
+                }
+              }
+            },
+            {
+              "number": 4,
+              "title": "Restoration",
+              "age_groups": {
+                "adult": {
+                  "readings": [{"ref": "Job 42"}]
+                },
+                "youth": {
+                  "readings": [{"ref": "Job 42"}]
+                },
+                "kids": {
+                  "readings": [{"ref": "Job 42:10-17"}]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "number": 4,
+          "title": "Abraham and Isaac: Promise Fulfilled",
+          "days": [
+            {
+              "number": 1,
+              "title": "Call of Abram",
+              "age_groups": {
+                "adult": {
+                  "readings": [{"ref": "Gen 12 - 14"}]
+                },
+                "youth": {
+                  "readings": [{"ref": "Gen 12-13"}]
+                },
+                "kids": {
+                  "readings": [{"ref": "Gen 12:1-7"}]
+                }
+              }
+            },
+            {
+              "number": 2,
+              "title": "God's Covenant with Abraham",
+              "age_groups": {
+                "adult": {
+                  "readings": [{"ref": "Gen 15 - 16"}]
+                },
+                "youth": {
+                  "readings": [{"ref": "Gen 15-16"}]
+                },
+                "kids": {
+                  "readings": [{"ref": "Gen 15:1-6"}]
+                }
+              }
+            },
+            {
+              "number": 3,
+              "title": "Isaac's Promise",
+              "age_groups": {
+                "adult": {
+                  "readings": [{"ref": "Gen 17 - 19"}]
+                },
+                "youth": {
+                  "readings": [{"ref": "Gen 17:15-21, 18:1-33, 19:12-29"}]
+                },
+                "kids": {
+                  "readings": [{"ref": "Gen 17:15-19"}]
+                }
+              }
+            },
+            {
+              "number": 4,
+              "title": "Isaac's Birth & Sacrifice",
+              "age_groups": {
+                "adult": {
+                  "readings": [{"ref": "Gen 20 - 23"}]
+                },
+                "youth": {
+                  "readings": [{"ref": "Gen 21:1-21, Gen 22"}]
+                },
+                "kids": {
+                  "readings": [{"ref": "Gen 21:1-7, Gen 22:1-19"}]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "number": 5,
+          "title": "Jacob: Wrestling and Renewal",
+          "days": [
+            {
+              "number": 1,
+              "title": "Isaac and His Family",
+              "age_groups": {
+                "adult": {
+                  "readings": [{"ref": "Gen 24-26"}]
+                },
+                "youth": {
+                  "readings": [{"ref": "Gen 24,  Gen 25:19-34, Gen 26:1-5"}]
+                },
+                "kids": {
+                  "readings": [{"ref": "Gen 25:19-34, Gen 26:1-5"}]
+                }
+              }
+            },
+            {
+              "number": 2,
+              "title": "Jacob Tricks Isaac",
+              "age_groups": {
+                "adult": {
+                  "readings": [{"ref": "Gen 27-29"}]
+                },
+                "youth": {
+                  "readings": [{"ref": "Gen 27, Gen 29"}]
+                },
+                "kids": {
+                  "readings": [{"ref": "Gen 27:1-35"}]
+                }
+              }
+            },
+            {
+              "number": 3,
+              "title": "Jacob Wrestles with God",
+              "age_groups": {
+                "adult": {
+                  "readings": [{"ref": "Gen 30-32"}]
+                },
+                "youth": {
+                  "readings": [{"ref": "Gen 30:1-24, Gen 32"}]
+                },
+                "kids": {
+                  "readings": [{"ref": "Gen 32:22-32"}]
+                }
+              }
+            },
+            {
+              "number": 4,
+              "title": "Jacob Meets Esau and God Reaffirms Promise",
+              "age_groups": {
+                "adult": {
+                  "readings": [{"ref": "Gen 33-35"}]
+                },
+                "youth": {
+                  "readings": [{"ref": "Gen 33, Gen 35"}]
+                },
+                "kids": {
+                  "readings": [{"ref": "Gen 33:1-4, Gen 35:9-12"}]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "number": 6,
+          "title": "Joseph: From Pit to Palace",
+          "days": [
+            {
+              "number": 1,
+              "title": "Joseph's Dreams, Pit",
+              "age_groups": {
+                "adult": {
+                  "readings": [{"ref": "Gen 37, Gen 39"}]
+                },
+                "youth": {
+                  "readings": [{"ref": "Gen 37, Gen 39"}]
+                },
+                "kids": {
+                  "readings": [{"ref": "Gen 37, Gen 39:20-23"}]
+                }
+              }
+            },
+            {
+              "number": 2,
+              "title": "Prison, Palace",
+              "age_groups": {
+                "adult": {
+                  "readings": [{"ref": "Gen 40, Gen 41"}]
+                },
+                "youth": {
+                  "readings": [{"ref": "Gen 40, Gen 41"}]
+                },
+                "kids": {
+                  "readings": [{"ref": "Gen 41"}]
+                }
+              }
+            },
+            {
+              "number": 3,
+              "title": "Provisioning",
+              "age_groups": {
+                "adult": {
+                  "readings": [{"ref": "Gen 42-45"}]
+                },
+                "youth": {
+                  "readings": [{"ref": "Gen 42-45"}]
+                },
+                "kids": {
+                  "readings": [{"ref": "Gen 42-45:1-5"}]
+                }
+              }
+            },
+            {
+              "number": 4,
+              "title": "Providence, Forgiveness",
+              "age_groups": {
+                "adult": {
+                  "readings": [{"ref": "Gen 46 - 50"}]
+                },
+                "youth": {
+                  "readings": [{"ref": "Gen 46, Gen 49:28-50:26"}]
+                },
+                "kids": {
+                  "readings": [{"ref": "Gen 50:15-21"}]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "number": 7,
+          "title": "Moses: God's Deliverer",
+          "days": [
+            {
+              "number": 1,
+              "title": "The Birth of Moses",
+              "age_groups": {
+                "adult": {
+                  "readings": [{"ref": "Exodus 1 - 2"}]
+                },
+                "youth": {
+                  "readings": [{"ref": "Exodus 1 - 2"}]
+                },
+                "kids": {
+                  "readings": [{"ref": "Exodus 1:22-2:15"}]
+                }
+              }
+            },
+            {
+              "number": 2,
+              "title": "The Burning Bush",
+              "age_groups": {
+                "adult": {
+                  "readings": [{"ref": "Exodus 3-6"}]
+                },
+                "youth": {
+                  "readings": [{"ref": "Exodus 3 - 6:13"}]
+                },
+                "kids": {
+                  "readings": [{"ref": "Exodus 3-4:17"}]
+                }
+              }
+            },
+            {
+              "number": 3,
+              "title": "Plagues",
+              "age_groups": {
+                "adult": {
+                  "readings": [{"ref": "Exodus 7-12"}]
+                },
+                "youth": {
+                  "readings": [{"ref": "Exodus 7-12"}]
+                },
+                "kids": {
+                  "readings": [{"ref": "Exodus 7:1-13, Exodus 12:29-37"}]
+                }
+              }
+            },
+            {
+              "number": 4,
+              "title": "Crossing the Red Sea",
+              "age_groups": {
+                "adult": {
+                  "readings": [{"ref": "Exodus 13-15"}]
+                },
+                "youth": {
+                  "readings": [{"ref": "Exodus 13, Exodus 14"}]
+                },
+                "kids": {
+                  "readings": [{"ref": "Exodus 13:17-14:31"}]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "number": 8,
+          "title": "Law, Wilderness, and Farewell",
+          "days": [
+            {
+              "number": 1,
+              "title": "Manna in the Wilderness",
+              "age_groups": {
+                "adult": {
+                  "readings": [{"ref": "Exodus 16–18"}]
+                },
+                "youth": {
+                  "readings": [{"ref": "Exodus 16-17"}]
+                },
+                "kids": {
+                  "readings": [{"ref": "Exodus 16"}]
+                }
+              }
+            },
+            {
+              "number": 2,
+              "title": "The Ten Commandments",
+              "age_groups": {
+                "adult": {
+                  "readings": [{"ref": "Exodus 19–20"}]
+                },
+                "youth": {
+                  "readings": [{"ref": "Exodus 19-20"}]
+                },
+                "kids": {
+                  "readings": [{"ref": "Exodus 20:1-17"}]
+                }
+              }
+            },
+            {
+              "number": 3,
+              "title": "The Golden Calf",
+              "age_groups": {
+                "adult": {
+                  "readings": [{"ref": "Exodus 24, 31:18- Exodus 34"}]
+                },
+                "youth": {
+                  "readings": [{"ref": "Exodus 31:18 - Exodus 34"}]
+                },
+                "kids": {
+                  "readings": [{"ref": "Exodus 31:18-32:20, Exodus 34:1-9, 34:29-33"}]
+                }
+              }
+            },
+            {
+              "number": 4,
+              "title": "Spies and Moses' Farewell",
+              "age_groups": {
+                "adult": {
+                  "readings": [{"ref": "Numbers 13-14, Deut 34"}]
+                },
+                "youth": {
+                  "readings": [{"ref": "Numbers 13-14, Deut 34"}]
+                },
+                "kids": {
+                  "readings": [{"ref": "Numbers 13:1-2, Numbers 13:26-33, Numbers 14:1-10, 20-38, Deut 34"}]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "number": 9,
+          "title": "Joshua: Be Strong and Courageous",
+          "days": [
+            {
+              "number": 1,
+              "title": "Be Strong and Courageous",
+              "age_groups": {
+                "adult": {
+                  "readings": [{"ref": "Joshua 1-2"}]
+                },
+                "youth": {
+                  "readings": [{"ref": "Joshua 1-2"}]
+                },
+                "kids": {
+                  "readings": [{"ref": "Joshua 1:1-11, Joshua 2"}]
+                }
+              }
+            },
+            {
+              "number": 2,
+              "title": "Crossing the Jordan",
+              "age_groups": {
+                "adult": {
+                  "readings": [{"ref": "Joshua 3-4"}]
+                },
+                "youth": {
+                  "readings": [{"ref": "Joshua 3-4"}]
+                },
+                "kids": {
+                  "readings": [{"ref": "Joshua 3"}]
+                }
+              }
+            },
+            {
+              "number": 3,
+              "title": "Walls of Jerico",
+              "age_groups": {
+                "adult": {
+                  "readings": [{"ref": "Joshua 5-8"}]
+                },
+                "youth": {
+                  "readings": [{"ref": "Joshua 5-6"}]
+                },
+                "kids": {
+                  "readings": [{"ref": "Joshua 5:10-15 - Joshua 6"}]
+                }
+              }
+            },
+            {
+              "number": 4,
+              "title": "Covenant Renewal",
+              "age_groups": {
+                "adult": {
+                  "readings": [{"ref": "Joshua 23-24"}]
+                },
+                "youth": {
+                  "readings": [{"ref": "Joshua 23-24"}]
+                },
+                "kids": {
+                  "readings": [{"ref": "Joshua 24:1-18"}]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "number": 10,
+          "title": "Judges: Israel's Cycle of Sin and Rescue",
+          "days": [
+            {
+              "number": 1,
+              "title": "Israel's Cycle Begins",
+              "age_groups": {
+                "adult": {
+                  "readings": [{"ref": "Judges 1-2, Judges 4-5"}]
+                },
+                "youth": {
+                  "readings": [{"ref": "Judges 1 - 2, Judges 4"}]
+                },
+                "kids": {
+                  "readings": [{"ref": "Judges 2:10-23, Judges 4:1-16"}]
+                }
+              }
+            },
+            {
+              "number": 2,
+              "title": "Gideon's Calling",
+              "age_groups": {
+                "adult": {
+                  "readings": [{"ref": "Judges 6-8"}]
+                },
+                "youth": {
+                  "readings": [{"ref": "Judges 6 - 7"}]
+                },
+                "kids": {
+                  "readings": [{"ref": "Judges 6 - 7"}]
+                }
+              }
+            },
+            {
+              "number": 3,
+              "title": "Samson's Rise",
+              "age_groups": {
+                "adult": {
+                  "readings": [{"ref": "Judges 13-15"}]
+                },
+                "youth": {
+                  "readings": [{"ref": "Judges 13 - 15"}]
+                },
+                "kids": {
+                  "readings": [{"ref": "Judges 13:1-5, Judges 14:5-20, Judges 15"}]
+                }
+              }
+            },
+            {
+              "number": 4,
+              "title": "Samson's Fall",
+              "age_groups": {
+                "adult": {
+                  "readings": [{"ref": "Judges 16"}]
+                },
+                "youth": {
+                  "readings": [{"ref": "Judges 16"}]
+                },
+                "kids": {
+                  "readings": [{"ref": "Judges 16"}]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "number": 11,
+          "title": "Ruth, Samuel, and Israel's First King",
+          "days": [
+            {
+              "number": 1,
+              "title": "Ruth's Redemption",
+              "age_groups": {
+                "adult": {
+                  "readings": [{"ref": "Ruth 1 - 4"}]
+                },
+                "youth": {
+                  "readings": [{"ref": "Ruth 1 - 4"}]
+                },
+                "kids": {
+                  "readings": [{"ref": "Ruth 1, Ruth 2:1-16, Ruth 4:13-17"}]
+                }
+              }
+            },
+            {
+              "number": 2,
+              "title": "Hannah and Samuel's Call",
+              "age_groups": {
+                "adult": {
+                  "readings": [{"ref": "1 Samuel 1-3"}]
+                },
+                "youth": {
+                  "readings": [{"ref": "1 Samuel 1, 1 Samuel 3"}]
+                },
+                "kids": {
+                  "readings": [{"ref": "1 Samuel 1, 1 Samuel 3"}]
+                }
+              }
+            },
+            {
+              "number": 3,
+              "title": "Israel Asks for a King",
+              "age_groups": {
+                "adult": {
+                  "readings": [{"ref": "1 Samuel 8-10"}]
+                },
+                "youth": {
+                  "readings": [{"ref": "1 Samuel 8-10"}]
+                },
+                "kids": {
+                  "readings": [{"ref": "1 Samuel 8:4-22, 1 Samual 9:15-10:1"}]
+                }
+              }
+            },
+            {
+              "number": 4,
+              "title": "Saul's Disobedience",
+              "age_groups": {
+                "adult": {
+                  "readings": [{"ref": "1 Samuel 13-15"}]
+                },
+                "youth": {
+                  "readings": [{"ref": "1 Samuel 13, 1 Samuel 14"}]
+                },
+                "kids": {
+                  "readings": [{"ref": "1 Samuel 13:5-14, 15:1-26"}]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "number": 12,
+          "title": "David: Shepherd to King",
+          "days": [
+            {
+              "number": 1,
+              "title": "David Annointed",
+              "age_groups": {
+                "adult": {
+                  "readings": [{"ref": "1 Samuel 16"}]
+                },
+                "youth": {
+                  "readings": [{"ref": "1 Samuel 16"}]
+                },
+                "kids": {
+                  "readings": [{"ref": "1 Samuel 16:1-13"}]
+                }
+              }
+            },
+            {
+              "number": 2,
+              "title": "David and Goliath",
+              "age_groups": {
+                "adult": {
+                  "readings": [{"ref": "1 Samuel 17"}]
+                },
+                "youth": {
+                  "readings": [{"ref": "1 Samuel 17"}]
+                },
+                "kids": {
+                  "readings": [{"ref": "1 Samuel 17"}]
+                }
+              }
+            },
+            {
+              "number": 3,
+              "title": "David on the Run from Saul",
+              "age_groups": {
+                "adult": {
+                  "readings": [{"ref": "1 Samuel 18,19,20,24"}]
+                },
+                "youth": {
+                  "readings": [{"ref": "1 Samuel 19, 20, 24"}]
+                },
+                "kids": {
+                  "readings": [{"ref": "1 Samuel 24"}]
+                }
+              }
+            },
+            {
+              "number": 4,
+              "title": "Songs from the Cave",
+              "age_groups": {
+                "adult": {
+                  "readings": [{"ref": "Psalm 18, 59, 63, 142"}]
+                },
+                "youth": {
+                  "readings": [{"ref": "Psalm 18, 59, 63, 142"}]
+                },
+                "kids": {
+                  "readings": [{"ref": "Psalm 63"}]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "number": 13,
+          "title": "David's Sin, Psalms, and God's Promise",
+          "days": [
+            {
+              "number": 1,
+              "title": "David's Grief and God's Promise",
+              "age_groups": {
+                "adult": {
+                  "readings": [{"ref": "1 Samuel 31, 2 Samuel 1-2:7, 2 Samuel 7"}]
+                },
+                "youth": {
+                  "readings": [{"ref": "1 Samuel 31, 2 Samuel 1-2:7, 2 Samuel 7"}]
+                },
+                "kids": {
+                  "readings": [{"ref": "1 Samuel 31:1-7"}]
+                }
+              }
+            },
+            {
+              "number": 2,
+              "title": "David and Bathsheba",
+              "age_groups": {
+                "adult": {
+                  "readings": [{"ref": "2 Samuel 11-12"}]
+                },
+                "youth": {
+                  "readings": [{"ref": "2 Samuel 11-12"}]
+                },
+                "kids": {
+                  "readings": [{"ref": "2 Samuel 11:1-12:14"}]
+                }
+              }
+            },
+            {
+              "number": 3,
+              "title": "Create in Me a Clean Heart",
+              "age_groups": {
+                "adult": {
+                  "readings": [{"ref": "Psalm 51"}]
+                },
+                "youth": {
+                  "readings": [{"ref": "Psalm 51"}]
+                },
+                "kids": {
+                  "readings": [{"ref": "Psalm 51"}]
+                }
+              }
+            },
+            {
+              "number": 4,
+              "title": "The Lord is My Shepherd",
+              "age_groups": {
+                "adult": {
+                  "readings": [{"ref": "Psalm 23"}]
+                },
+                "youth": {
+                  "readings": [{"ref": "Psalm 23"}]
+                },
+                "kids": {
+                  "readings": [{"ref": "Psalm 23"}]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "number": 14,
+          "title": "Solomon: Wisdom and Decline",
+          "days": [
+            {
+              "number": 1,
+              "title": "Solomon Becomes King",
+              "age_groups": {
+                "adult": {
+                  "readings": [{"ref": "1 Kings 1-3"}]
+                },
+                "youth": {
+                  "readings": [{"ref": "1 Kings 1:28–40, 3:5–28"}]
+                },
+                "kids": {
+                  "readings": [{"ref": "1 Kings 3:5–28"}]
+                }
+              }
+            },
+            {
+              "number": 2,
+              "title": "Solomon Builds the Temple",
+              "age_groups": {
+                "adult": {
+                  "readings": [{"ref": "1 Kings 6-8"}]
+                },
+                "youth": {
+                  "readings": [{"ref": "1 Kings 6:1–13, 8:22–30"}]
+                },
+                "kids": {
+                  "readings": [{"ref": "1 Kings 6:1–13"}]
+                }
+              }
+            },
+            {
+              "number": 3,
+              "title": "Solomon Turns from God",
+              "age_groups": {
+                "adult": {
+                  "readings": [{"ref": "1 Kings 9-11"}]
+                },
+                "youth": {
+                  "readings": [{"ref": "1 Kings 9:1–9, 11:1–13"}]
+                },
+                "kids": {
+                  "readings": [{"ref": "1 Kings 11:1–13"}]
+                }
+              }
+            },
+            {
+              "number": 4,
+              "title": "What Really Matters",
+              "age_groups": {
+                "adult": {
+                  "readings": [{"ref": "Ecclesiastes 1, 3, 12"}]
+                },
+                "youth": {
+                  "readings": [{"ref": "Ecclesiastes 3:1–14, 12:1–7, 13"}]
+                },
+                "kids": {
+                  "readings": [{"ref": "Ecclesiastes 3:1–8"}]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "number": 15,
+          "title": "Elijah, Elisha, and God's Power",
+          "days": [
+            {
+              "number": 1,
+              "title": "Elijah and the Fire from Heaven",
+              "age_groups": {
+                "adult": {
+                  "readings": [{"ref": "1 Kings 17-19"}]
+                },
+                "youth": {
+                  "readings": [{"ref": "1 Kings 18"}]
+                },
+                "kids": {
+                  "readings": [{"ref": "1 Kings 18:17-39"}]
+                }
+              }
+            },
+            {
+              "number": 2,
+              "title": "Elijah Passes the Mantle",
+              "age_groups": {
+                "adult": {
+                  "readings": [{"ref": "2 Kings 1-2"}]
+                },
+                "youth": {
+                  "readings": [{"ref": "2 Kings 2"}]
+                },
+                "kids": {
+                  "readings": [{"ref": "2 Kings 2:1-14"}]
+                }
+              }
+            },
+            {
+              "number": 3,
+              "title": "Elisha's Miracles Begin",
+              "age_groups": {
+                "adult": {
+                  "readings": [{"ref": "2 Kings 4-5"}]
+                },
+                "youth": {
+                  "readings": [{"ref": "2 Kings 4:1-7, 2 Kings 5"}]
+                },
+                "kids": {
+                  "readings": [{"ref": "2 Kings 2:1-14"}]
+                }
+              }
+            },
+            {
+              "number": 4,
+              "title": "God's Invisible Army",
+              "age_groups": {
+                "adult": {
+                  "readings": [{"ref": "2 Kings 6-7"}]
+                },
+                "youth": {
+                  "readings": [{"ref": "2 Kings 6:8-23"}]
+                },
+                "kids": {
+                  "readings": [{"ref": "2 Kings 6:15-23"}]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "number": 16,
+          "title": "Jonah: God's Relentless Mercy",
+          "days": [
+            {
+              "number": 1,
+              "title": "Jonah Runs from God",
+              "age_groups": {
+                "adult": {
+                  "readings": [{"ref": "Jonah 1"}]
+                },
+                "youth": {
+                  "readings": [{"ref": "Jonah 1"}]
+                },
+                "kids": {
+                  "readings": [{"ref": "Jonah 1"}]
+                }
+              }
+            },
+            {
+              "number": 2,
+              "title": "Jonah Prays",
+              "age_groups": {
+                "adult": {
+                  "readings": [{"ref": "Jonah 2"}]
+                },
+                "youth": {
+                  "readings": [{"ref": "Jonah 2"}]
+                },
+                "kids": {
+                  "readings": [{"ref": "Jonah 2"}]
+                }
+              }
+            },
+            {
+              "number": 3,
+              "title": "Jonah Obeys",
+              "age_groups": {
+                "adult": {
+                  "readings": [{"ref": "Jonah 3"}]
+                },
+                "youth": {
+                  "readings": [{"ref": "Jonah 3"}]
+                },
+                "kids": {
+                  "readings": [{"ref": "Jonah 3"}]
+                }
+              }
+            },
+            {
+              "number": 4,
+              "title": "Jonah's Bad Attitude",
+              "age_groups": {
+                "adult": {
+                  "readings": [{"ref": "Jonah 4"}]
+                },
+                "youth": {
+                  "readings": [{"ref": "Jonah 4"}]
+                },
+                "kids": {
+                  "readings": [{"ref": "Jonah 4"}]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "number": 17,
+          "title": "Daniel: Faithful in Exile",
+          "days": [
+            {
+              "number": 1,
+              "title": "Faithful in a Foreign Land",
+              "age_groups": {
+                "adult": {
+                  "readings": [{"ref": "Daniel 1-2"}]
+                },
+                "youth": {
+                  "readings": [{"ref": "Daniel 1-2"}]
+                },
+                "kids": {
+                  "readings": [{"ref": "Daniel 2"}]
+                }
+              }
+            },
+            {
+              "number": 2,
+              "title": "Furnace",
+              "age_groups": {
+                "adult": {
+                  "readings": [{"ref": "Daniel 3"}]
+                },
+                "youth": {
+                  "readings": [{"ref": "Daniel 3"}]
+                },
+                "kids": {
+                  "readings": [{"ref": "Daniel 3"}]
+                }
+              }
+            },
+            {
+              "number": 3,
+              "title": "Pride and Punishment",
+              "age_groups": {
+                "adult": {
+                  "readings": [{"ref": "Daniel 4-5"}]
+                },
+                "youth": {
+                  "readings": [{"ref": "Daniel 4-5"}]
+                },
+                "kids": {
+                  "readings": [{"ref": "Daniel 5"}]
+                }
+              }
+            },
+            {
+              "number": 4,
+              "title": "Daniel in the Lion's Den",
+              "age_groups": {
+                "adult": {
+                  "readings": [{"ref": "Daniel 6"}]
+                },
+                "youth": {
+                  "readings": [{"ref": "Daniel 6"}]
+                },
+                "kids": {
+                  "readings": [{"ref": "Daniel 6"}]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "number": 18,
+          "title": "Esther: Courage and God's Deliverance",
+          "days": [
+            {
+              "number": 1,
+              "title": "Queen Esther",
+              "age_groups": {
+                "adult": {
+                  "readings": [{"ref": "Esther 1, 2"}]
+                },
+                "youth": {
+                  "readings": [{"ref": "Esther 1, 2"}]
+                },
+                "kids": {
+                  "readings": [{"ref": "Esther 2"}]
+                }
+              }
+            },
+            {
+              "number": 2,
+              "title": "Esther's Courage",
+              "age_groups": {
+                "adult": {
+                  "readings": [{"ref": "Esther 3-5"}]
+                },
+                "youth": {
+                  "readings": [{"ref": "Esther 3-5"}]
+                },
+                "kids": {
+                  "readings": [{"ref": "Esther 3-5"}]
+                }
+              }
+            },
+            {
+              "number": 3,
+              "title": "The King's Favor",
+              "age_groups": {
+                "adult": {
+                  "readings": [{"ref": "Esther 6-7"}]
+                },
+                "youth": {
+                  "readings": [{"ref": "Esther 6-7"}]
+                },
+                "kids": {
+                  "readings": [{"ref": "Esther 7"}]
+                }
+              }
+            },
+            {
+              "number": 4,
+              "title": "God Saves His People",
+              "age_groups": {
+                "adult": {
+                  "readings": [{"ref": "Esther 8-10"}]
+                },
+                "youth": {
+                  "readings": [{"ref": "Esther 8–10"}]
+                },
+                "kids": {
+                  "readings": [{"ref": "Esther 8, Esther 10"}]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "number": 19,
+          "title": "Nehemiah and Ezra: Rebuilding God's People",
+          "days": [
+            {
+              "number": 1,
+              "title": "Nehemiah Hears the News",
+              "age_groups": {
+                "adult": {
+                  "readings": [{"ref": "Nehemiah 1-2"}]
+                },
+                "youth": {
+                  "readings": [{"ref": "Nehemiah 1–2"}]
+                },
+                "kids": {
+                  "readings": [{"ref": "Nehemiah 1:1–11"}]
+                }
+              }
+            },
+            {
+              "number": 2,
+              "title": "Rebuilding Begins",
+              "age_groups": {
+                "adult": {
+                  "readings": [{"ref": "Nehemiah 3–4"}]
+                },
+                "youth": {
+                  "readings": [{"ref": "Nehemiah 3–4"}]
+                },
+                "kids": {
+                  "readings": [{"ref": "Nehemiah 4:6–23"}]
+                }
+              }
+            },
+            {
+              "number": 3,
+              "title": "The Wall Is Finished",
+              "age_groups": {
+                "adult": {
+                  "readings": [{"ref": "Nehemiah 6-7"}]
+                },
+                "youth": {
+                  "readings": [{"ref": "Nehemiah 6 - 7:4"}]
+                },
+                "kids": {
+                  "readings": [{"ref": "Nehemiah 6:15–16"}]
+                }
+              }
+            },
+            {
+              "number": 4,
+              "title": "Ezra Reads the Law",
+              "age_groups": {
+                "adult": {
+                  "readings": [{"ref": "Nehemiah 8:1–12"}]
+                },
+                "youth": {
+                  "readings": [{"ref": "Nehemiah 8:1–12"}]
+                },
+                "kids": {
+                  "readings": [{"ref": "Nehemiah 8:1–3, 5–6, 8–12"}]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "number": 20,
+          "title": "Prophets: The New Covenant and the Messiah",
+          "days": [
+            {
+              "number": 1,
+              "title": "God Calls Jeremiah",
+              "age_groups": {
+                "adult": {
+                  "readings": [{"ref": "Jeremiah 1, 7"}]
+                },
+                "youth": {
+                  "readings": [{"ref": "Jeremiah 1"}]
+                },
+                "kids": {
+                  "readings": [{"ref": "Jeremiah 1:4–10"}]
+                }
+              }
+            },
+            {
+              "number": 2,
+              "title": "The Broken Covenant",
+              "age_groups": {
+                "adult": {
+                  "readings": [{"ref": "Jeremiah 11, 18"}]
+                },
+                "youth": {
+                  "readings": [{"ref": "Jeremiah 11"}]
+                },
+                "kids": {
+                  "readings": [{"ref": "Jeremiah 18:1–11"}]
+                }
+              }
+            },
+            {
+              "number": 3,
+              "title": "The New Covenant",
+              "age_groups": {
+                "adult": {
+                  "readings": [{"ref": "Jeremiah 23, 31"}]
+                },
+                "youth": {
+                  "readings": [{"ref": "Jeremiah 31:31–40"}]
+                },
+                "kids": {
+                  "readings": [{"ref": "Jeremiah 31:31–34"}]
+                }
+              }
+            },
+            {
+              "number": 4,
+              "title": "The Coming Messiah",
+              "age_groups": {
+                "adult": {
+                  "readings": [{"ref": "Isaiah 7, 9, 11, 53"}]
+                },
+                "youth": {
+                  "readings": [{"ref": "Isaiah 9:6–7, 53:1–6"}]
+                },
+                "kids": {
+                  "readings": [{"ref": "Isaiah 9:6; 53:4–6"}]
+                }
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "nt",
+      "name": "New Testament",
+      "number": 2,
+      "weeks": []
+    }
+  ]
+}
