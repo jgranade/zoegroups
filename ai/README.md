@@ -10,7 +10,7 @@ Agents provide specialized expertise for:
 
 ## Available Agents
 
-### Platform Development (`agents/platform/`)
+### Platform Development (`platform/`)
 
 **zoegroups-architect.md**
 - Domain modeling and entity design
@@ -30,7 +30,7 @@ Agents provide specialized expertise for:
 - Data seeding and optimization
 - Use for: "How should we store this data?"
 
-### Curriculum Development (`agents/curriculum/`)
+### Curriculum Development (`curriculum/`)
 
 **curriculum-designer.md**
 - Educational design principles
@@ -76,7 +76,7 @@ Agents reference documentation in `/docs`:
 ## Adding New Agents
 
 When adding course-specific specialists:
-1. Create agent file in `agents/curriculum/[course]-specialist.md`
+1. Create agent file in `curriculum/[course]-specialist.md`
 2. Define expertise scope and content knowledge
 3. Update this README
 4. Reference relevant course files in `/Courses`
